@@ -4,7 +4,7 @@
 I'm a Software Developer with a passion for developing software, data science, machine learning. I love solving complex problems and collaborating on innovative projects.
 
 - 🌱 Currently learning: Vue JS, Tailwind CSS and Node JS for full stack web development & Flutter for cross-platform application development.
-- 💼 Open for opportunities: full-stack development, collaboration on open-source projects
+- 💼 Open for opportunities: full-stack development, collaboration on open-source projects.
 
 ---
 
