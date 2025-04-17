@@ -10,7 +10,7 @@ I'm a Software Developer with a passion for developing software, data science, m
 
 ### 🚀 Featured Projects
 Here is one of my projects:
-- [Foursquare Gospel Church Ikate Website](https://github.com/cephas001/foursquare_website) - A responsive website that built with Vue, Tailwind and Strapi. 
+- [A Church Website](https://github.com/cephas001/foursquare_website) - A responsive website built with Vue, Tailwind and Strapi. 
   
 ---
 
@@ -24,7 +24,7 @@ Here is one of my projects:
 
 ### 📫 Contact Me
 Feel free to reach out to me on:
-- [**Email:**](okodughapeter58@gmail.com)
-- [**LinkedIn:**](https://www.linkedin.com/in/peter-okodugha-28105323a/)
+- [**Email**](okodughapeter58@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/peter-okodugha-28105323a/)
 
 Thanks for stopping by! 😊
