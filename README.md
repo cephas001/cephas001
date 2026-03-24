@@ -9,9 +9,10 @@ I'm a Software Developer with a passion for developing software, data science, m
 ---
 
 ### 🚀 Featured Projects
-Here is one of my projects:
-- [Interactive Church Website](https://github.com/cephas001/foursquare_website) - A responsive website built with Vue, Tailwind and Strapi. 
-  
+Here are some of my projects:
+- [A Curriculum Knowledge Graph Visualization System](https://github.com/cephas001/ckgv-system) - An interactive website built with Nuxt.js & D3.js, FastAPI and spaCy. 
+- [A Conference Payment Review System](https://github.com/cephas001/ec-review-system) - A platform built with Nuxt.js and Express.js for reviewing payments. 
+
 ---
 
 ### ⚙️ Languages & Tools
